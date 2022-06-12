@@ -1,0 +1,209 @@
+
+========================================================================RESULTADOS EXCETO PARA KNN ====================================================================================
+
+
+Numero de Features = 20 Numero de Linhas = 100.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9490333333333333, "hamming_score": 0.006564102564102564, "tempo execucaoo(segs)": 3.2780299186706543}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9817, "hamming_score": 0.0016948717948717948, "tempo execucaoo(segs)": 3.340235471725464}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9296666666666666, "hamming_score": 0.009933333333333334, "tempo execucaoo(segs)": 3.093614101409912}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9821666666666666, "hamming_score": 0.0018333333333333333, "tempo execucaoo(segs)": 3.3148863315582275}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9469, "hamming_score": 0.00807948717948718, "tempo execucaoo(segs)": 2.0369575023651123}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9805333333333334, "hamming_score": 0.0029025641025641024, "tempo execucaoo(segs)": 2.2689220905303955}
+Numero de Features = 20 Numero de Linhas = 150.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9383333333333334, "hamming_score": 0.008362393162393162, "tempo execucaoo(segs)": 4.848637342453003}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9802222222222222, "hamming_score": 0.0018153846153846154, "tempo execucaoo(segs)": 5.2132768630981445}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9269333333333334, "hamming_score": 0.009644444444444445, "tempo execucaoo(segs)": 4.210983753204346}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9800666666666666, "hamming_score": 0.002087179487179487, "tempo execucaoo(segs)": 5.03108024597168}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9405555555555556, "hamming_score": 0.009039316239316239, "tempo execucaoo(segs)": 2.990888833999634}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9761777777777778, "hamming_score": 0.003557264957264957, "tempo execucaoo(segs)": 3.4093174934387207}
+Numero de Features = 20 Numero de Linhas = 200.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9258333333333333, "hamming_score": 0.010238461538461538, "tempo execucaoo(segs)": 6.7170090675354}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9793333333333333, "hamming_score": 0.001905128205128205, "tempo execucaoo(segs)": 7.2346413135528564}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9341, "hamming_score": 0.00936025641025641, "tempo execucaoo(segs)": 6.018618583679199}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9796666666666667, "hamming_score": 0.002035897435897436, "tempo execucaoo(segs)": 6.9508631229400635}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9269333333333334, "hamming_score": 0.011137179487179487, "tempo execucaoo(segs)": 4.028663873672485}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9751833333333333, "hamming_score": 0.003714102564102564, "tempo execucaoo(segs)": 4.518539905548096}
+Numero de Features = 20 Numero de Linhas = 250.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9269333333333334, "hamming_score": 0.009415384615384615, "tempo execucaoo(segs)": 8.360014915466309}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9745866666666667, "hamming_score": 0.0022625641025641025, "tempo execucaoo(segs)": 9.551553726196289}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9356266666666667, "hamming_score": 0.009681025641025642, "tempo execucaoo(segs)": 7.6032490730285645}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9799466666666666, "hamming_score": 0.002076923076923077, "tempo execucaoo(segs)": 9.092885732650757}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9349866666666666, "hamming_score": 0.009901538461538462, "tempo execucaoo(segs)": 4.882837533950806}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9741733333333333, "hamming_score": 0.003871794871794872, "tempo execucaoo(segs)": 5.599516153335571}
+Numero de Features = 20 Numero de Linhas = 50.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9408666666666666, "hamming_score": 0.006128205128205128, "tempo execucaoo(segs)": 1.4412691593170166}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9765333333333334, "hamming_score": 0.002030769230769231, "tempo execucaoo(segs)": 1.6503398418426514}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9404666666666667, "hamming_score": 0.008523076923076923, "tempo execucaoo(segs)": 1.3878705501556396}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9788666666666667, "hamming_score": 0.0023487179487179486, "tempo execucaoo(segs)": 1.6666960716247559}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9474666666666667, "hamming_score": 0.008005128205128205, "tempo execucaoo(segs)": 1.0082764625549316}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9776, "hamming_score": 0.003364102564102564, "tempo execucaoo(segs)": 1.2028427124023438}
+Numero de Features = 40 Numero de Linhas = 100.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9233333333333333, "hamming_score": 0.008992307692307692, "tempo execucaoo(segs)": 3.2929179668426514}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9819, "hamming_score": 0.001717948717948718, "tempo execucaoo(segs)": 6.950618267059326}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.8392, "hamming_score": 0.016533333333333334, "tempo execucaoo(segs)": 3.0707621574401855}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9816333333333334, "hamming_score": 0.0018230769230769231, "tempo execucaoo(segs)": 6.684282541275024}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9370333333333334, "hamming_score": 0.009597435897435898, "tempo execucaoo(segs)": 2.0676064491271973}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9805666666666667, "hamming_score": 0.0029, "tempo execucaoo(segs)": 3.0882718563079834}
+Numero de Features = 40 Numero de Linhas = 150.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9338444444444445, "hamming_score": 0.008815384615384616, "tempo execucaoo(segs)": 5.14513373374939}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9810222222222222, "hamming_score": 0.001735042735042735, "tempo execucaoo(segs)": 11.04456615447998}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9131333333333334, "hamming_score": 0.011133333333333334, "tempo execucaoo(segs)": 4.707792282104492}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9812, "hamming_score": 0.0019538461538461537, "tempo execucaoo(segs)": 10.246543645858765}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9283111111111111, "hamming_score": 0.010923076923076923, "tempo execucaoo(segs)": 3.140381097793579}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9748, "hamming_score": 0.003769230769230769, "tempo execucaoo(segs)": 4.496978282928467}
+Numero de Features = 40 Numero de Linhas = 200.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.8698, "hamming_score": 0.014469230769230769, "tempo execucaoo(segs)": 7.2007715702056885}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9766666666666667, "hamming_score": 0.00213974358974359, "tempo execucaoo(segs)": 15.235995769500732}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.8597833333333333, "hamming_score": 0.01748846153846154, "tempo execucaoo(segs)": 7.181230545043945}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9790833333333333, "hamming_score": 0.0021102564102564105, "tempo execucaoo(segs)": 14.198970794677734}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9308166666666666, "hamming_score": 0.01053974358974359, "tempo execucaoo(segs)": 4.102531671524048}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9754333333333334, "hamming_score": 0.0036769230769230768, "tempo execucaoo(segs)": 6.177406549453735}
+Numero de Features = 40 Numero de Linhas = 250.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9036266666666667, "hamming_score": 0.011082051282051282, "tempo execucaoo(segs)": 8.980728387832642}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9741466666666667, "hamming_score": 0.0023435897435897437, "tempo execucaoo(segs)": 19.865217924118042}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.8263333333333334, "hamming_score": 0.01809846153846154, "tempo execucaoo(segs)": 8.47681450843811}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.97968, "hamming_score": 0.002108717948717949, "tempo execucaoo(segs)": 18.41573691368103}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9297333333333333, "hamming_score": 0.01070974358974359, "tempo execucaoo(segs)": 5.1780173778533936}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9765066666666666, "hamming_score": 0.003512820512820513, "tempo execucaoo(segs)": 7.498945713043213}
+Numero de Features = 40 Numero de Linhas = 50.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9368666666666666, "hamming_score": 0.008035897435897436, "tempo execucaoo(segs)": 1.5884058475494385}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9771333333333333, "hamming_score": 0.0019230769230769232, "tempo execucaoo(segs)": 3.2923152446746826}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.913, "hamming_score": 0.012138461538461539, "tempo execucaoo(segs)": 1.5721895694732666}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.979, "hamming_score": 0.002307692307692308, "tempo execucaoo(segs)": 3.192976713180542}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9442666666666667, "hamming_score": 0.008497435897435898, "tempo execucaoo(segs)": 1.0652825832366943}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9772666666666666, "hamming_score": 0.0034205128205128206, "tempo execucaoo(segs)": 1.6203770637512207}
+Numero de Features = 60 Numero de Linhas = 100.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9334666666666667, "hamming_score": 0.008125641025641025, "tempo execucaoo(segs)": 3.2604336738586426}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9826, "hamming_score": 0.0016641025641025641, "tempo execucaoo(segs)": 9.240134239196777}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9227333333333333, "hamming_score": 0.008953846153846154, "tempo execucaoo(segs)": 3.261338710784912}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9822666666666666, "hamming_score": 0.001746153846153846, "tempo execucaoo(segs)": 8.619815349578857}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9375, "hamming_score": 0.009525641025641025, "tempo execucaoo(segs)": 2.168239116668701}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9806333333333334, "hamming_score": 0.0028897435897435896, "tempo execucaoo(segs)": 3.5780465602874756}
+Numero de Features = 60 Numero de Linhas = 150.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9426444444444444, "hamming_score": 0.00795897435897436, "tempo execucaoo(segs)": 5.244531154632568}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9803333333333333, "hamming_score": 0.001735042735042735, "tempo execucaoo(segs)": 15.161422491073608}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9383777777777778, "hamming_score": 0.008502564102564102, "tempo execucaoo(segs)": 4.904016733169556}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9830666666666666, "hamming_score": 0.0016205128205128206, "tempo execucaoo(segs)": 13.754127502441406}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.8272222222222222, "hamming_score": 0.026475213675213674, "tempo execucaoo(segs)": 3.2080936431884766}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9748444444444444, "hamming_score": 0.003764102564102564, "tempo execucaoo(segs)": 5.2606706619262695}
+Numero de Features = 60 Numero de Linhas = 200.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9323833333333333, "hamming_score": 0.009017948717948717, "tempo execucaoo(segs)": 7.276743173599243}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9773666666666667, "hamming_score": 0.002032051282051282, "tempo execucaoo(segs)": 20.532008171081543}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9280166666666667, "hamming_score": 0.009417948717948718, "tempo execucaoo(segs)": 7.227717399597168}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9825666666666667, "hamming_score": 0.0016679487179487179, "tempo execucaoo(segs)": 18.576908111572266}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9274666666666667, "hamming_score": 0.011055128205128205, "tempo execucaoo(segs)": 4.290789365768433}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9757, "hamming_score": 0.0036358974358974357, "tempo execucaoo(segs)": 7.0025904178619385}
+Numero de Features = 60 Numero de Linhas = 250.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9311066666666666, "hamming_score": 0.009045128205128206, "tempo execucaoo(segs)": 9.395965576171875}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9768266666666666, "hamming_score": 0.0021015384615384615, "tempo execucaoo(segs)": 26.717178344726562}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9340266666666667, "hamming_score": 0.009062564102564103, "tempo execucaoo(segs)": 9.138504266738892}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9827066666666666, "hamming_score": 0.0017076923076923076, "tempo execucaoo(segs)": 24.342777967453003}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9306133333333333, "hamming_score": 0.010574358974358974, "tempo execucaoo(segs)": 5.414177179336548}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9744666666666667, "hamming_score": 0.0038266666666666666, "tempo execucaoo(segs)": 8.60649061203003}
+Numero de Features = 60 Numero de Linhas = 50.000
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9403333333333334, "hamming_score": 0.00826153846153846, "tempo execucaoo(segs)": 1.667022943496704}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9756, "hamming_score": 0.0020256410256410257, "tempo execucaoo(segs)": 4.369316577911377}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9423333333333334, "hamming_score": 0.00782051282051282, "tempo execucaoo(segs)": 1.6964280605316162}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.98, "hamming_score": 0.002148717948717949, "tempo execucaoo(segs)": 4.123724460601807}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9375333333333333, "hamming_score": 0.009533333333333333, "tempo execucaoo(segs)": 1.1188204288482666}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9749333333333333, "hamming_score": 0.0037794871794871797, "tempo execucaoo(segs)": 1.8739826679229736}
+Total operation time: = 605.7387177944183 seconds
+
+========================================================================RESULTADOS KNN PARA 50.000 linhas===========================================================================
+
+umero de Features = 20 Numero de Linhas = 50.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9939333333333333, "hamming_score": 0.0008512820512820513, "tempo execucao(segs)": 126.4646406173706}
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9402666666666667, "hamming_score": 0.007420512820512821, "tempo execucao(segs)": 1.8366913795471191}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9768666666666667, "hamming_score": 0.0020051282051282053, "tempo execucao(segs)": 1.7452995777130127}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9939333333333333, "hamming_score": 0.0008615384615384615, "tempo execucao(segs)": 112.16655588150024}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9422, "hamming_score": 0.008056410256410256, "tempo execucao(segs)": 1.6298010349273682}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9786666666666667, "hamming_score": 0.0023897435897435896, "tempo execucao(segs)": 1.719914197921753}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9939333333333333, "hamming_score": 0.0008615384615384615, "tempo execucao(segs)": 9.472749471664429}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9254, "hamming_score": 0.0114, "tempo execucao(segs)": 0.9437391757965088}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9776, "hamming_score": 0.003364102564102564, "tempo execucao(segs)": 1.2002406120300293}
+Numero de Features = 40 Numero de Linhas = 50.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9935333333333334, "hamming_score": 0.0008769230769230769, "tempo execucao(segs)": 111.9502534866333}
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9084666666666666, "hamming_score": 0.01083076923076923, "tempo execucao(segs)": 1.818786382675171}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9768, "hamming_score": 0.0019538461538461537, "tempo execucao(segs)": 3.7488930225372314}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9938, "hamming_score": 0.0008666666666666666, "tempo execucao(segs)": 113.59813976287842}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9194, "hamming_score": 0.011502564102564103, "tempo execucao(segs)": 1.7920541763305664}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9792666666666666, "hamming_score": 0.002266666666666667, "tempo execucao(segs)": 3.2919232845306396}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9938, "hamming_score": 0.0008717948717948718, "tempo execucao(segs)": 9.628106117248535}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9274666666666667, "hamming_score": 0.011082051282051282, "tempo execucao(segs)": 0.9819409847259521}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9772666666666666, "hamming_score": 0.0034205128205128206, "tempo execucao(segs)": 1.7023954391479492}
+Numero de Features = 60 Numero de Linhas = 50.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9931333333333333, "hamming_score": 0.0009743589743589744, "tempo execucao(segs)": 115.69191193580627}
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9334666666666667, "hamming_score": 0.008184615384615384, "tempo execucao(segs)": 1.7852535247802734}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9755333333333334, "hamming_score": 0.002030769230769231, "tempo execucao(segs)": 4.653047800064087}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9932, "hamming_score": 0.0009794871794871795, "tempo execucao(segs)": 116.68961644172668}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9408, "hamming_score": 0.007948717948717949, "tempo execucao(segs)": 1.7716343402862549}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9797333333333333, "hamming_score": 0.0021794871794871794, "tempo execucao(segs)": 4.42464804649353}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9932666666666666, "hamming_score": 0.0009743589743589744, "tempo execucao(segs)": 9.641117572784424}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9390666666666667, "hamming_score": 0.009297435897435898, "tempo execucao(segs)": 1.055032730102539}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9749333333333333, "hamming_score": 0.0037794871794871797, "tempo execucao(segs)": 1.7938482761383057}
+Total operation time: = 765.729665517807 seconds
+
+
+========================================================================RESULTADOS KNN PARA 100.000 linhas===========================================================================
+
+Numero de Features = 20 Numero de Linhas = 100.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9961333333333333, "hamming_score": 0.0005538461538461539, "tempo execucao(segs)": 426.305783033371}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9962333333333333, "hamming_score": 0.0005564102564102564, "tempo execucao(segs)": 426.15072560310364}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9962, "hamming_score": 0.000558974358974359, "tempo execucao(segs)": 35.32772731781006}
+Numero de Features = 40 Numero de Linhas = 100.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9959, "hamming_score": 0.0005948717948717949, "tempo execucao(segs)": 437.45533204078674}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9959333333333333, "hamming_score": 0.0006025641025641026, "tempo execucao(segs)": 442.0328600406647}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9959, "hamming_score": 0.0006051282051282051, "tempo execucao(segs)": 38.627885818481445}
+Numero de Features = 60 Numero de Linhas = 100.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9962, "hamming_score": 0.0005538461538461539, "tempo execucao(segs)": 478.10561203956604}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9962666666666666, "hamming_score": 0.0005538461538461539, "tempo execucao(segs)": 462.29275703430176}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9962333333333333, "hamming_score": 0.0005564102564102564, "tempo execucao(segs)": 36.49264049530029}
+Total operation time: = 2787.87926697731 seconds
+
+========================================================================RESULTADOS KNN PARA 150.000 linhas===========================================================================
+
+Numero de Features = 20 Numero de Linhas = 150.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9973333333333333, "hamming_score": 0.0003829059829059829, "tempo execucao(segs)": 959.8565862178802}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9974222222222222, "hamming_score": 0.0003794871794871795, "tempo execucao(segs)": 939.6312053203583}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9974, "hamming_score": 0.0003829059829059829, "tempo execucao(segs)": 74.44508147239685}
+Numero de Features = 40 Numero de Linhas = 150.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9970666666666667, "hamming_score": 0.0004170940170940171, "tempo execucao(segs)": 966.6596829891205}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9971555555555556, "hamming_score": 0.0004188034188034188, "tempo execucao(segs)": 965.8089280128479}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9972, "hamming_score": 0.00041196581196581195, "tempo execucao(segs)": 77.10486364364624}
+Numero de Features = 60 Numero de Linhas = 150.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9972666666666666, "hamming_score": 0.0003982905982905983, "tempo execucao(segs)": 991.4501693248749}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9972666666666666, "hamming_score": 0.00040341880341880344, "tempo execucao(segs)": 999.4133174419403}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9972666666666666, "hamming_score": 0.00040341880341880344, "tempo execucao(segs)": 79.34056329727173}
+Total operation time: = 6061.169419050217 seconds
+
+========================================================================RESULTADOS PARCIAIS INCLUSIVE KNN ===========================================================================
+
+Numero de Features = 20 Numero de Linhas = 100.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9961333333333333, "hamming_score": 0.0005538461538461539, "tempo execucao(segs)": 425.69325709342957}
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9464333333333333, "hamming_score": 0.007066666666666666, "tempo execucao(segs)": 3.7603654861450195}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9818, "hamming_score": 0.0016717948717948719, "tempo execucao(segs)": 3.367527961730957}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9962333333333333, "hamming_score": 0.0005564102564102564, "tempo execucao(segs)": 424.9883065223694}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9402, "hamming_score": 0.008292307692307693, "tempo execucao(segs)": 3.192004442214966}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9822666666666666, "hamming_score": 0.0018205128205128205, "tempo execucao(segs)": 3.410320997238159}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9962, "hamming_score": 0.000558974358974359, "tempo execucao(segs)": 34.3938102722168}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9474333333333333, "hamming_score": 0.007997435897435897, "tempo execucao(segs)": 2.051657199859619}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9805, "hamming_score": 0.0029076923076923077, "tempo execucao(segs)": 2.4060187339782715}
+Numero de Features = 20 Numero de Linhas = 150.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9973333333333333, "hamming_score": 0.0003829059829059829, "tempo execucao(segs)": 929.965240240097}
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9394888888888889, "hamming_score": 0.008128205128205128, "tempo execucao(segs)": 4.881727457046509}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9802222222222222, "hamming_score": 0.0018188034188034187, "tempo execucao(segs)": 5.22436785697937}
+{"transf problema": "ClassifierChain", "modelo": "Nearest Neighbors", "acuracia:": 0.9974222222222222, "hamming_score": 0.0003794871794871795, "tempo execucao(segs)": 925.9820027351379}
+{"transf problema": "ClassifierChain", "modelo": "Random Forest", "acuracia:": 0.9283333333333333, "hamming_score": 0.00998974358974359, "tempo execucao(segs)": 4.330564260482788}
+{"transf problema": "ClassifierChain", "modelo": "ID3", "acuracia:": 0.9800888888888889, "hamming_score": 0.0020854700854700853, "tempo execucao(segs)": 4.9754722118377686}
+{"transf problema": "LabelPowerset", "modelo": "Nearest Neighbors", "acuracia:": 0.9974, "hamming_score": 0.0003829059829059829, "tempo execucao(segs)": 74.10442519187927}
+{"transf problema": "LabelPowerset", "modelo": "Random Forest", "acuracia:": 0.9379777777777778, "hamming_score": 0.009435897435897437, "tempo execucao(segs)": 4.265034914016724}
+{"transf problema": "LabelPowerset", "modelo": "ID3", "acuracia:": 0.9761777777777778, "hamming_score": 0.003557264957264957, "tempo execucao(segs)": 3.7565369606018066}
+Numero de Features = 20 Numero de Linhas = 200.000
+{"transf problema": "BinaryRelevance", "modelo": "Nearest Neighbors", "acuracia:": 0.9973, "hamming_score": 0.0003884615384615385, "tempo execucao(segs)": 47583.266597509384}
+{"transf problema": "BinaryRelevance", "modelo": "Random Forest", "acuracia:": 0.9351833333333334, "hamming_score": 0.008603846153846155, "tempo execucao(segs)": 7.203734874725342}
+{"transf problema": "BinaryRelevance", "modelo": "ID3", "acuracia:": 0.9794166666666667, "hamming_score": 0.0018987179487179487, "tempo execucao(segs)": 7.251399517059326}
+
+======================================================================== FIM ===========================================================================================================
+
+
+

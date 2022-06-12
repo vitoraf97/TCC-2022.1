@@ -1,0 +1,46 @@
+Numero de Features = 20 Numero de Linhas = 50.000
+
+{"best parameters": {"k": 1, "s": 0.5}, "best score": 0.98813528733482, "training time taken": 1408.4275419712067}{"modelo": "ML-KNN", "acuracia:": 0.9886666666666667, "hamming_score": 0.001682051282051282, "tempo execucao(segs)": 1431.8750858306885}
+
+{"best parameters": {"k": 3}, "best score": 0.984044791892333, "training time taken": 50.71582269668579}{"modelo": "BR-KNNa", "acuracia:": 0.9856666666666667, "hamming_score": 0.0020564102564102566, "tempo execucao(segs)": 62.53692889213562}
+Numero de Features = 20 Numero de Linhas = 100.000
+
+{"best parameters": {"k": 1, "s": 0.5}, "best score": 0.9908148043587783, "training time taken": 3674.4880599975586}{"modelo": "ML-KNN", "acuracia:": 0.9915333333333334, "hamming_score": 0.001258974358974359, "tempo execucao(segs)": 3733.200572490692}
+
+{"best parameters": {"k": 3}, "best score": 0.9887639337745864, "training time taken": 184.6152958869934}{"modelo": "BR-KNNa", "acuracia:": 0.9884, "hamming_score": 0.0017205128205128204, "tempo execucao(segs)": 229.15518045425415}
+Numero de Features = 20 Numero de Linhas = 150.000
+
+{"best parameters": {"k": 1, "s": 0.5}, "best score": 0.9913737539562872, "training time taken": 7485.372858047485}{"modelo": "ML-KNN", "acuracia:": 0.9921333333333333, "hamming_score": 0.0011863247863247864, "tempo execucao(segs)": 7594.558625221252}
+
+{"best parameters": {"k": 3}, "best score": 0.9893742825975249, "training time taken": 437.9728157520294}{"modelo": "BR-KNNa", "acuracia:": 0.9892666666666666, "hamming_score": 0.0015897435897435897, "tempo execucao(segs)": 540.2304885387421}
+Numero de Features = 40 Numero de Linhas = 50.000
+
+{"best parameters": {"k": 1, "s": 0.5}, "best score": 0.98964072605781, "training time taken": 1427.194207906723}{"modelo": "ML-KNN", "acuracia:": 0.9907333333333334, "hamming_score": 0.001358974358974359, "tempo execucao(segs)": 1450.5202145576477}
+
+{"best parameters": {"k": 3}, "best score": 0.9862530367975401, "training time taken": 55.51670575141907}{"modelo": "BR-KNNa", "acuracia:": 0.9876, "hamming_score": 0.0017743589743589743, "tempo execucao(segs)": 68.7012825012207}
+Numero de Features = 40 Numero de Linhas = 100.000
+
+{"best parameters": {"k": 1, "s": 0.5}, "best score": 0.992795191384, "training time taken": 42618.041709661484}{"modelo": "ML-KNN", "acuracia:": 0.9931333333333333, "hamming_score": 0.001023076923076923, "tempo execucao(segs)": 42681.66043114662}
+
+{"best parameters": {"k": 3}, "best score": 0.9905080453020549, "training time taken": 192.3118793964386}{"modelo": "BR-KNNa", "acuracia:": 0.9912, "hamming_score": 0.001305128205128205, "tempo execucao(segs)": 237.39901542663574}
+Numero de Features = 40 Numero de Linhas = 150.000
+
+{"best parameters": {"k": 1, "s": 0.5}, "best score": 0.9929314195583256, "training time taken": 6905.374650716782}{"modelo": "ML-KNN", "acuracia:": 0.9938, "hamming_score": 0.0009299145299145299, "tempo execucao(segs)": 7015.069789409637}
+
+{"best parameters": {"k": 3}, "best score": 0.9911438228125732, "training time taken": 470.07898926734924}{"modelo": "BR-KNNa", "acuracia:": 0.9920888888888889, "hamming_score": 0.0011641025641025641, "tempo execucao(segs)": 566.6057767868042}
+Numero de Features = 60 Numero de Linhas = 50.000
+
+{"best parameters": {"k": 1, "s": 0.5}, "best score": 0.9908258066489969, "training time taken": 1408.3967814445496}{"modelo": "ML-KNN", "acuracia:": 0.9913333333333333, "hamming_score": 0.0012615384615384615, "tempo execucao(segs)": 1431.7699580192566}
+
+{"best parameters": {"k": 3}, "best score": 0.9876160761888301, "training time taken": 55.019100189208984}{"modelo": "BR-KNNa", "acuracia:": 0.9879333333333333, "hamming_score": 0.0017384615384615386, "tempo execucao(segs)": 68.42749619483948}
+Numero de Features = 60 Numero de Linhas = 100.000
+
+{"best parameters": {"k": 1, "s": 0.5}, "best score": 0.9930498454097119, "training time taken": 3742.8951292037964}{"modelo": "ML-KNN", "acuracia:": 0.9931333333333333, "hamming_score": 0.0010256410256410256, "tempo execucao(segs)": 3802.3963923454285}
+
+{"best parameters": {"k": 3}, "best score": 0.9907279615683631, "training time taken": 199.859965801239}{"modelo": "BR-KNNa", "acuracia:": 0.9911, "hamming_score": 0.001317948717948718, "tempo execucao(segs)": 247.6995871067047}
+Numero de Features = 60 Numero de Linhas = 150.000
+
+{"best parameters": {"k": 1, "s": 0.5}, "best score": 0.9932686231361378, "training time taken": 8845.83648943901}{"modelo": "ML-KNN", "acuracia:": 0.9940222222222223, "hamming_score": 0.000894017094017094, "tempo execucao(segs)": 8954.287913799286}
+
+{"best parameters": {"k": 3}, "best score": 0.9916333845301317, "training time taken": 423.5627791881561}{"modelo": "BR-KNNa", "acuracia:": 0.9922666666666666, "hamming_score": 0.001135042735042735, "tempo execucao(segs)": 522.9265866279602}
+Total operation time: = 80654.02901005745 seconds
